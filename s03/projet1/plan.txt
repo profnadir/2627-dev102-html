@@ -1,0 +1,17 @@
+les balises multimedias : 
+
+images 
+
+img : src + alt
+
+src : chemin relatif : ok ( /  / ) (../) chemin absolue
+
+alt : description + non voyants + seo
+
+audio : controls + autoplay
+        src 
+
+video : poster
+
+iframe : partie d'un autre site
+
