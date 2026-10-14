@@ -1,0 +1,34 @@
+Rappel : 
+
+M104 : SWS
+
+html css bootstrap 
+
+html
+
+doctype html head title body
+
+p h1..6 img audio video table iframe a 
+
+app -> afficher les informations 
+
+les elements html <- informations
+
+form : inputs * ? 
+
+lorem
+
+
+liens 
+
+a
+
+href : lien
+
+target : _self (meme fenetre) _blank (new window)
+
+navigation dans la meme page : href="#nom"   => <p id="nom">....
+
+les inputs
+
+form action="server" method="post"
